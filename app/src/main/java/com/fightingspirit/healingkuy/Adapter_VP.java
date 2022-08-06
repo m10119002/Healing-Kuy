@@ -7,6 +7,7 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.viewpager.widget.PagerAdapter;
 
+// 6 Juli 2022, 10119032, Ginanjar Tubagus Gumilar, IF1
 public class Adapter_VP extends PagerAdapter {
     int[] layouts;
     LayoutInflater layoutInflater;

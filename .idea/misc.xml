@@ -3,15 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Healing-Kuy/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Healing-Kuy/app/src/main/res/layout/activity_tentang.xml" value="0.12" />
-        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Healing-Kuy/app/src/main/res/layout/open1.xml" value="0.2" />
-        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Healing-Kuy/app/src/main/res/layout/open2.xml" value="0.25" />
-        <entry key="..\:/STUFF/SCHOOL STUFF/KULIAH/SEMESTER 6/AKB/PROYEK/Healing-Kuy/app/src/main/res/layout/open3.xml" value="0.25" />
         <entry key="..\:/Users/fsahi/AndroidStudioProjects/HealingKuy/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2985" />
         <entry key="..\:/Users/fsahi/AndroidStudioProjects/HealingKuy/app/src/main/res/drawable/ic_lokasi.xml" value="0.2985" />
         <entry key="..\:/Users/fsahi/AndroidStudioProjects/HealingKuy/app/src/main/res/drawable/ic_profil.xml" value="0.2985" />
+        <entry key="..\:/Users/fsahi/AndroidStudioProjects/HealingKuy/app/src/main/res/layout/activity_detail_wisata.xml" value="0.14065840102607952" />
+        <entry key="..\:/Users/fsahi/AndroidStudioProjects/HealingKuy/app/src/main/res/layout/activity_list_wisata.xml" value="0.15220179563916203" />
         <entry key="..\:/Users/fsahi/AndroidStudioProjects/HealingKuy/app/src/main/res/layout/activity_tentang.xml" value="0.2896645512239347" />
+        <entry key="..\:/Users/fsahi/AndroidStudioProjects/HealingKuy/app/src/main/res/layout/fragment_listwisata.xml" value="0.15220179563916203" />
+        <entry key="..\:/Users/fsahi/AndroidStudioProjects/HealingKuy/app/src/main/res/layout/fragment_profil.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/fsahi/AndroidStudioProjects/HealingKuy/app/src/main/res/layout/item_mahasiswa.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/fsahi/AndroidStudioProjects/HealingKuy/app/src/main/res/layout/wisata.xml" value="0.15220179563916203" />
         <entry key="..\:/Users/fsahi/AndroidStudioProjects/HealingKuy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2985" />
         <entry key="..\:/Users/fsahi/AndroidStudioProjects/HealingKuy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2985" />
         <entry key="..\:/Users/fsahi/AndroidStudioProjects/TugasBesarAKB/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2985" />

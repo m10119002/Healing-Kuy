@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-// 6 Juli 2022, -, -, IF1
+// 6 Juli 2022, 10119032, Ginanjar Tubagus Gumilar, IF1
 public class TentangActivity extends AppCompatActivity {
 
     ViewPager viewPager;

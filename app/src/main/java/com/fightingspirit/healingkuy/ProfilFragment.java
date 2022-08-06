@@ -30,6 +30,7 @@ public class ProfilFragment extends Fragment {
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
 
         List<Mahasiswa> tMhs = new ArrayList<Mahasiswa>();
+        tMhs.add(new Mahasiswa("10118003", "Rio Franata", R.drawable.pic_rio));
         tMhs.add(new Mahasiswa("10119002", "Firman Sahita", R.drawable.pic_firman));
         tMhs.add(new Mahasiswa("10119023", "Muhammad Farhan Roesfiazhar", R.drawable.pic_farhan));
         tMhs.add(new Mahasiswa("10119032", "Ginanjar Tubagus Gumilar", R.drawable.pic_ginanjar));
