@@ -4,34 +4,30 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".TentangActivity"
-    android:background="#00B2FF">
+    android:background="@color/white"
+    tools:context=".TentangActivity">
 
-    <TextView
-        android:id="@+id/tv_tentang"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Tentang Activity\nRIO FRANATA\n10118003"
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/Pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-
-        android:textSize="50sp"
-        android:textStyle="bold"
-        android:gravity="center"
-        android:textColor="#000000"/>
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
 
     <Button
-        android:id="@+id/confirm_tentang"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="OK"
-        android:onClick="openMainApp"
+        android:id="@+id/tombolSelanjutnya"
+        android:layout_width="150dp"
+        android:layout_height="57dp"
+        android:text="Lanjut"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="@id/tv_tentang"
-        android:textColor="#000000"/>
+        android:background="@color/purple_500"
+        android:textColor="@color/white"
+
+        android:gravity="center" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
