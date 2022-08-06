@@ -10,6 +10,7 @@ import android.os.Bundle;
 
 import com.google.android.material.navigation.NavigationBarView;
 
+// 6 Juli 2022, 10119002, Firman Sahita, IF1
 public class MainActivity extends AppCompatActivity {
     NavigationBarView bot_nav;
     private Fragment profilFragment;
@@ -58,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
         bot_nav.setSelectedItemId(R.id.ic_lokasi);
     }
 
-    // 10119002 - Firman Sahita - IF1
+    // 6 Juli 2022, 10119002, Firman Sahita, IF1
     private class ScreenSlidePagerAdapter extends FragmentStateAdapter {
         public ScreenSlidePagerAdapter(FragmentActivity fa) {
             super(fa);

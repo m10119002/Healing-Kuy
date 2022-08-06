@@ -8,11 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * A simple {@link Fragment} subclass.
- * Use the {@link ListWisataFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
+// 6 Juli 2022, 10119032, Ginanjar Tubagus Gumilar, IF1
 public class ListWisataFragment extends Fragment {
 
     // TODO: Rename parameter arguments, choose names that match

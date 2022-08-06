@@ -1,5 +1,6 @@
 package com.fightingspirit.healingkuy;
 
+// 6 Juli 2022, 10119002, Firman Sahita, IF1
 public class Mahasiswa {
     private String mNim;
     private String mNama;

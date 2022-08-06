@@ -12,6 +12,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.List;
 
+// 6 Juli 2022, 10119002, Firman Sahita, IF1
 public class ProfilAdapter extends RecyclerView.Adapter<ProfilAdapter.ViewHolder> {
     private List<Mahasiswa> mTMahasiswa;
 
@@ -49,6 +50,7 @@ public class ProfilAdapter extends RecyclerView.Adapter<ProfilAdapter.ViewHolder
         return mTMahasiswa.size();
     }
 
+    // 6 Juli 2022, 10119002, Firman Sahita, IF1
     public class ViewHolder extends RecyclerView.ViewHolder {
         public TextView v_nim;
         public TextView v_nama;
